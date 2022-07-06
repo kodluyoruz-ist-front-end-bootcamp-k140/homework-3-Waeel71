@@ -1,5 +1,4 @@
-import React, { useEffect } from "react";
-
+import React from "react";
 // post class component ile data getirme
 export class Postlar extends React.Component {
   //constructor

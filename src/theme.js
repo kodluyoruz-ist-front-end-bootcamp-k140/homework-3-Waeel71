@@ -1,5 +1,3 @@
-import React from "react";
-
 //theme
 export const themes = {
   light: {
